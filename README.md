@@ -6,9 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -23,10 +20,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Make sure to enable CGI before downloading anything
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Download the required downloads and set them up make sure to remember the credentials you set. Don't download Heidi or OSTICKET yet.
+- Getting into OSTICKET
+- Fixing OSTICKET
+- Logging in with everything needed
 
 <h2>Installation Steps</h2>
 
